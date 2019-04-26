@@ -6,5 +6,5 @@ Some examples to code your way:
 3. [Handwritten Digit Recognition](https://github.com/Bipinskapz/BoringSnoring/blob/master/digit_recognition.ipynb)
 4. [Gradient Descent Algorithm - From scratch using Numpy](https://github.com/Bipinskapz/BoringSnoring/blob/master/gradient_descent_numpy.ipynb)
 5. [Logistic Regression](https://github.com/Bipinskapz/BoringSnoring/blob/master/logistic_regression.ipynb) 
-6. [Movie Recommendation](https://github.com/Bipinskapz/BoringSnoring/blob/master/movie_recomendor_system.ipynb)
+6. [Movie Recomendation](https://github.com/Bipinskapz/BoringSnoring/blob/master/movie_recomendor_system.ipynb)
 7. [Multi-Variate Regression](https://github.com/Bipinskapz/BoringSnoring/blob/master/multivariate_regression.ipynb)
